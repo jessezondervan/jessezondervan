@@ -1,4 +1,13 @@
-### Hi there 👋
+My work focuses on understanding physical, chemical and biological processes on the Earth's surface 🌍. 
+
+I approach questions using an integrated approach to fieldwork 🏔️ and digital analysis, including remote sensing 🛰️, geospatial analysis, machine learning 🔢 and high-performance computing 🖥️. 
+
+- 🔭 I’m currently working on modeling global carbon dioxide emissions from the erosion and weathering of organic-rich rock ⛰️, which is a major component of the geological carbon cycle that has not been properly quantified yet 🌏
+- 🌱 I’m currently learning about the role of microbes 🦠 in the environment, how they could help reverse desertification and increase the resilience of dryland environments 🏜️
+- 👯 I’m looking to collaborate on ecology / microbiology / genetic sequencing / bioinformatics / synthetic biology
+- 🤔 I’m looking for help with statistics
+- 💬 Find more on https://www.jessezondervan.com/
+
 
 <!--
 **jessezondervan/jessezondervan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
