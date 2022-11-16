@@ -6,7 +6,7 @@ I approach questions using an integrated approach to fieldwork 🏔️ and digit
 - 🌱 I’m currently learning about the role of microbes 🦠 in the environment, how they could help reverse desertification and increase the resilience of dryland environments 🏜️
 - 👯 I’m looking to collaborate on ecology / microbiology / genetic sequencing / bioinformatics / synthetic biology
 - 🤔 I’m looking for help with statistics
-- 💬 Find more on https://www.jessezondervan.com/
+- 💬 Find more on https://www.jesserubenzondervan.com/
 
 
 <!--
